@@ -26,8 +26,6 @@ import java.util.Set;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
-import wizard.Ginny_Weasley.JaggedArrayComparator;
-
 //Only class for codechef.
 
 class All {
